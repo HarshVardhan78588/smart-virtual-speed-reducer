@@ -1,0 +1,6 @@
+{
+  "name": "Smart Virtual Speed Reducer - In-Vehicle Driver Interface & Digital Twin",
+  "description": "Next-generation in-vehicle driver interface and digital twin prototype demonstrating integrated, retrofit, and two-wheeler display configurations for smart virtual speed zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

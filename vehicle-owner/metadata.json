@@ -1,0 +1,6 @@
+{
+  "name": "Smart Virtual Speed Reducer - Vehicle Owner App",
+  "description": "Connected vehicle safety application for drivers and vehicle owners to monitor digital speed zones, gradual speed reductions, zone telemetry, and emergency overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
